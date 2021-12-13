@@ -1,0 +1,1 @@
+Microsoft Security Guidance blog additional reading: https://blogs.technet.microsoft.com/secguide/

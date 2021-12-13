@@ -1,0 +1,1 @@
+Use Windows Event Forwarding to help with intrusion detection: https://docs.microsoft.com/en-us/windows/security/threat-protection/use-windows-event-forwarding-to-assist-in-intrusion-detection

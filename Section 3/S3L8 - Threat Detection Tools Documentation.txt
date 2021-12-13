@@ -1,0 +1,3 @@
+SysInternals Suite available from: https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite
+
+VirusTotal at: https://www.virustotal.com/

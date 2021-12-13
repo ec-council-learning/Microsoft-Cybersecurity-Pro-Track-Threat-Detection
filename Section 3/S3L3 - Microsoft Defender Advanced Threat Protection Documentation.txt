@@ -1,0 +1,3 @@
+Microsoft Defender ATP Portal: https://securitycenter.windows.com/
+
+To sign up for a free trial of Windows Defender ATP go to: https://www.microsoft.com/en-us/windowsforbusiness/windows-atp?wt.mc_id=AID678289_QSG_219394

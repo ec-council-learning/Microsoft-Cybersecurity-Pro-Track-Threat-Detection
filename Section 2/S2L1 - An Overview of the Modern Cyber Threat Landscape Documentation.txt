@@ -1,0 +1,7 @@
+TOR (The Onion Router) additional reading: https://en.wikipedia.org/wiki/Tor_(anonymity_network)
+
+Autoruns for Windows additional reading: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
+
+Invoke-Obfuscation scripts: https://github.com/danielbohannon/Invoke-Obfuscation
+
+Invoke-CradleCrafter scripts: https://github.com/danielbohannon/Invoke-CradleCrafter

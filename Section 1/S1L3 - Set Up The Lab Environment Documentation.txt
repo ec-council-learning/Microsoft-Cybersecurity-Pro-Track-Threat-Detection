@@ -1,0 +1,9 @@
+Virtual Box Download Link: https://www.virtualbox.org/wiki/Downloads
+Select "Windows Hosts"
+
+Lab Virtual Machines download link: https://1drv.ms/u/s!ArC88mS_ef5b5BJILXPFfq77bMlc?e=aehJc0
+
+Virtual Machine Credentials:
+
+Username: adatum\Administrator
+Password: Pa55w.rd

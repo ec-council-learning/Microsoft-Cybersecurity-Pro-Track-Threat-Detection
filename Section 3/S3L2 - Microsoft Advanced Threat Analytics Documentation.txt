@@ -1,0 +1,2 @@
+Microsoft Advanced Threat Analytics Sizing tool: https://gallery.technet.microsoft.com/Advanced-Threat-Analytics-03e1339f
+
